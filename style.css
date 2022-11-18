@@ -3,21 +3,36 @@ margin: 0;
 padding: 0;
 }
 
-.bgsignup{
-background-image:url(images/Signup/Signupbg.jpg); 
+.navbar{
+    background-color: rgb(48, 44, 165);
 }
 
 
 
 .bgc{
-    background-color:rgb(168, 188, 199);
+    background-color: rgb(220, 229, 236);
 }
 
 .topimg{
     width: 100%;
 }
 
-.login{
-    background-color: rgb(134, 134, 188);
+.districts{
+    background-color: rgb(220, 229, 236);
 }
 
+
+
+
+.signlog{
+    background-color: rgb(220, 229, 236);
+    border-radius: 250px;
+}
+
+.errormail{
+    margin: 0;
+    padding: 0;
+    font-size: small;
+}
+
+ 
