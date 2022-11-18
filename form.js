@@ -13,7 +13,7 @@ let pconfirm = document.getElementById("pconfirm");
 // Email validation
 
 function mailvalidate(){
-    let regmail =/^([A-Za-z0-9\.-]+)@([A-Za-z0-9\-]+)\.([a-z]{2,3})(.[a-z]{2,3})?$/
+    let regmail =/^([A-Za-z0-9\.-]+)@([A-Za-z0-9\-]+).([a-z]{2,3})(.[a-z]{2,3})?$/
     if (regmail.test(email.value)){
     errormail.innerHTML = "Valid email address"
     errormail.style.color = "green"
