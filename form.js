@@ -1,10 +1,10 @@
-// let email = document.getElementById("email");
-// let errormail = document.getElementById("errormail");
-// let phone = document.getElementById("phone");
-// let errorphone = document.getElementById("errorphone");
-// let Ucase = document.getElementById("Ucase");
-// let lcase = document.getElementById("lcase");
-// let pnumber = document.getElementById("pnumber")
+let email = document.getElementById("email");
+let errormail = document.getElementById("errormail");
+let phone = document.getElementById("phone");
+let errorphone = document.getElementById("errorphone");
+let Ucase = document.getElementById("Ucase");
+let lcase = document.getElementById("lcase");
+let pnumber = document.getElementById("pnumber")
 let pchar = document.getElementById("pchar");
 let passsword = document.getElementById("password");
 let pconfirm = document.getElementById("pconfirm");
